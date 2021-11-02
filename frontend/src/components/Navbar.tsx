@@ -41,7 +41,7 @@ function Navbar() {
           <Link className={classes.navlink} to="/">
             {/*icon navbar */}
 
-          <img src="/dish.png" width="100px"></img>
+          
 
             <Typography variant="h6" className={classes.title}>
 
